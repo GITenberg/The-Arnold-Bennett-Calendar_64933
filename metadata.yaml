@@ -1,0 +1,36 @@
+_repo: The-Arnold-Bennett-Calendar_64933
+_version: 0.0.1
+alternative_title: 'An Arnold Bennett calendar: A quotation from Arnold Bennett for
+  every day in the year'
+contributor:
+  compiler:
+    agent_name: Bennett, Frank C.
+    gutenberg_agent_id: '53109'
+    url: http://www.gutenberg.org/2009/agents/53109
+creator:
+  author:
+    agent_name: Bennett, Arnold
+    aliases:
+    - Bennett, E. Arnold
+    - Bennett, Enoch Arnold
+    birthdate: 1867
+    deathdate: 1931
+    gutenberg_agent_id: '859'
+    url: http://www.gutenberg.org/2009/agents/859
+    wikipedia: https://en.wikipedia.org/wiki/Arnold_Bennett
+description: ''
+gutenberg_issued: '2021-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64933'
+  lccn: '12025813'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Bennett, Arnold, 1867-1931 -- Quotations'
+- GITenberg
+title: The Arnold Bennett Calendar
+url: http://www.gutenberg.org/ebooks/64933
