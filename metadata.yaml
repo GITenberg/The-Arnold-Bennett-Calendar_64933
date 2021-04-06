@@ -7,6 +7,9 @@ contributor:
     agent_name: Bennett, Frank C.
     gutenberg_agent_id: '53109'
     url: http://www.gutenberg.org/2009/agents/53109
+covers:
+- cover_type: archival
+  image_path: 64933-h/images/cover.jpg
 creator:
   author:
     agent_name: Bennett, Arnold
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/859
     wikipedia: https://en.wikipedia.org/wiki/Arnold_Bennett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64933#The-Arnold-Bennett-Calendar
 gutenberg_issued: '2021-03-27'
 gutenberg_type: Text
 identifiers:
